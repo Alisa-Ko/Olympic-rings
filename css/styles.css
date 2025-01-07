@@ -1,0 +1,40 @@
+
+
+.ring {
+    border: 5px solid;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: white;
+
+}
+.ring-one {
+    border: 5px solid blue;
+    top: 50px;
+    left: 50px;
+    z-index: -1;
+    
+}
+.ring-two {
+    border: 5px solid yellow;
+    top: 50px;
+    left: 175px;
+    z-index: -1;
+}
+.ring-three {
+    border: 5px solid black;
+    top: 50px;
+    left: 300px;
+    z-index: -1;
+}
+.ring-four {
+    border: 5px solid green;
+    top: 125px;
+    left: 112px;
+}
+.ring-five {
+    border: 5px solid red;
+    top: 125px;
+    left: 235px;
+}
